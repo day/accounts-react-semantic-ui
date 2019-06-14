@@ -1,8 +1,8 @@
 Package.describe({
-  summary: 'Semantic UI Components for Useraccounts-React',
+  summary: 'Semantic UI Components for Accounts React',
   version: '1.0.1',
-  name: 'meteoreact:accounts-semantic',
-  git: 'https://github.com/royGil/useraccounts-react.git',
+  name: 'day:accounts-react-semantic-ui',
+  git: 'https://github.com/day/accounts-react-semantic-ui',
   documentation: null
 })
 
