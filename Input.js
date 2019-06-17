@@ -38,12 +38,15 @@ const InputField = (fieldObj) => {
 }
 
 const iconMapper = {
-  username: 'user',
-  email: 'mail',
+  username: 'user outline',
+  email: 'envelope outline',
   password: 'lock',
-  confirmPassword: 'unlock alternate',
-  currentPassword: 'unlock alternate',
-  fullName: 'info'
+  confirmPassword: 'lock',
+  currentPassword: 'lock',
+  mobileNumber: 'mobile alternate',
+  instagramAccount: 'instagram',
+  youtubeAccount: 'youtube square'
 }
+// The instagram and youtube icons require that we use SUI default (not material)
 
 export default InputField
